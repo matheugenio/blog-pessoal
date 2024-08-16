@@ -1,4 +1,3 @@
-import React from 'react';
 import FormularioPostagem from '../formularioPostagem/FormularioPostagem.tsx';
 
 import 'reactjs-popup/dist/index.css';
